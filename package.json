@@ -1,9 +1,9 @@
 {
-  "name": "ReduxTube",
+  "name": "SimpleStarter",
   "version": "1.0.0",
-  "description": "YouTube playlist app build on Redux",
+  "description": "",
   "main": "index.js",
-  "repository": "git@github.com:david-sawatske/ReduxTube.git",
+  "repository": "",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
@@ -29,7 +29,6 @@
     "react-router": "^2.0.1",
     "react-router-dom": "^4.2.2",
     "redux": "^3.0.4",
-    "redux-thunk": "^2.2.0",
-    "youtube-api-search": "0.0.5"
+    "redux-thunk": "^2.2.0"
   }
 }

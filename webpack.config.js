@@ -1,6 +1,6 @@
 module.exports = {
   entry: [
-    './src/redux_tube.jsx'
+    './src/image_text.jsx'
   ],
   output: {
     path: __dirname,
